@@ -1,0 +1,7 @@
+<?php
+/*   _______________________________________
+    |  Obfuscated by PMPR - Php Obfuscator  |
+    |             66e16ccfaa782             |
+    |_______________________________________|
+*/
+ namespace Pmpr\Common\Foundation\Container; use Pmpr\Common\Foundation\Data\Component; abstract class ComponentInitiator extends Container { public function __construct() { $this->register(); if (!(!$this instanceof CommonInitiator && !$this instanceof UtilityInitiator)) { goto ossakckwskyqusmm; } $this->canRunSetup = $this->gmiyqqaekqcsoime(); ossakckwskyqusmm: parent::__construct(); } public final function gkieogwukagigisy(string $miawkwqioaeasiig, array $ywmkwiwkosakssii = []) : Component { $wksoawcgagcgoask = Storage::kmsomwiqwmoyoeci($this, $miawkwqioaeasiig, $ywmkwiwkosakssii); $this->ycgwemyyomeiuake(); return $wksoawcgagcgoask; } private function ycgwemyyomeiuake() { $mokawwccycoiqeka = ''; if (!($wksoawcgagcgoask = $this->couwksyewgyeooqe())) { goto mcagemacuqyskogs; } $mokawwccycoiqeka = $wksoawcgagcgoask->wwawisckiqeueoua(); mcagemacuqyskogs: $locale = $this->sscegwueamckwmcy("\160\154\165\147\151\x6e\137\x6c\157\143\141\154\145", determine_locale(), $mokawwccycoiqeka); $egcekquqcyayskcm = "{$locale}\56\155\157"; $mkomwsiykqigmqca = $this->cmewgsgomuwkkoou() . "\x2f\x74\162\141\156\163\x6c\x61\x74\x69\157\x6e"; load_textdomain($mokawwccycoiqeka, realpath("{$mkomwsiykqigmqca}\x2f{$egcekquqcyayskcm}")); } public abstract function register(); }
