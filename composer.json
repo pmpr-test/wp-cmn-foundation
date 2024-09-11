@@ -1,7 +1,1 @@
-{
-  "prod-require": {
-    "php": "8.2",
-    "wordpress": "6.0"
-  },
-  "tag": "1.4.128"
-}
+
