@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             66e5ebdfa86cb             |
+    |             66eae192c055a             |
     |_______________________________________|
 */
- namespace Pmpr\Common\Foundation\_ORM\Database; class Updater extends Common { }
+ namespace Pmpr\Common\Foundation\_ORM\Database\Schema; class NoneSchema extends Schema { }

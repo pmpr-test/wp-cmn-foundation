@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             66e5ebdfa86cb             |
+    |             66eae192c055a             |
     |_______________________________________|
 */
- namespace Pmpr\Common\Foundation\Plugin\Ticket\Traits; trait SettingTrait { public function gsqkwyaueoaeyqqs() { static $qeqooyuoiasweuck; if (!empty($qeqooyuoiasweuck)) { goto mukwsuuuqcgesmwc; } $qeqooyuoiasweuck = $this->uwkmaywceaaaigwo()->giiuwsmyumqwwiyq()->get("\164\151\x63\x6b\x65\x74\x5f\163\x65\x74\164\x69\156\x67\163", []); mukwsuuuqcgesmwc: return $qeqooyuoiasweuck; } public function qaawomkouwoaoqma(string $uusmaiomayssaecw, $ggauoeuaesiymgee = null) { return $this->caokeucsksukesyo()->ywqgcuymeiswqyqc()->get($this->gsqkwyaueoaeyqqs(), $uusmaiomayssaecw, $ggauoeuaesiymgee); } }
+ namespace Pmpr\Common\Foundation\Plugin\Ticket\Traits; trait SettingTrait { public function gsqkwyaueoaeyqqs() { static $qeqooyuoiasweuck; if (!empty($qeqooyuoiasweuck)) { goto yamoqmeywqamiyee; } $qeqooyuoiasweuck = $this->uwkmaywceaaaigwo()->giiuwsmyumqwwiyq()->get("\x74\151\x63\x6b\x65\164\x5f\163\x65\x74\x74\151\x6e\147\163", []); yamoqmeywqamiyee: return $qeqooyuoiasweuck; } public function qaawomkouwoaoqma(string $uusmaiomayssaecw, $ggauoeuaesiymgee = null) { return $this->caokeucsksukesyo()->ywqgcuymeiswqyqc()->get($this->gsqkwyaueoaeyqqs(), $uusmaiomayssaecw, $ggauoeuaesiymgee); } }
