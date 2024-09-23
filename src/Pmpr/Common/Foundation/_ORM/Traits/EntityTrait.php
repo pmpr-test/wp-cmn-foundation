@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             66f1d8187bb66             |
+    |             66f1e2e8864db             |
     |_______________________________________|
 */
  namespace Pmpr\Common\Foundation\_ORM\Traits; use Pmpr\Common\Foundation\_ORM\Database\Entity; trait EntityTrait { protected Entity $entity; public function gssiscqyqsacmeca() : Entity { return $this->entity; } public function ugokaokywkkqisqe(Entity $oikmcqwkmsyiicqs) : self { $this->entity = $oikmcqwkmsyiicqs; return $this; } }
