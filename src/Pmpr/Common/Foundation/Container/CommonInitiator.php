@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             66f15f5710e7a             |
+    |             66f16ae3d454f             |
     |_______________________________________|
 */
  namespace Pmpr\Common\Foundation\Container; abstract class CommonInitiator extends ComponentInitiator { public function ikcgmcycisiccyuc() { $this->canRunSetup = true; } }
