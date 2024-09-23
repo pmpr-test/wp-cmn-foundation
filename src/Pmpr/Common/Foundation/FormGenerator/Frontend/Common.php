@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             66f0d2ce2062a             |
+    |             66f132f3a1d1b             |
     |_______________________________________|
 */
  namespace Pmpr\Common\Foundation\FormGenerator\Frontend; use Pmpr\Common\Foundation\Container\Traits\SingletonTrait; use Pmpr\Common\Foundation\Container\Traits\CommonTrait; use Pmpr\Common\Foundation\Notice\Traits\NoticeTrait; use Pmpr\Common\Foundation\Traits\ComponentTrait; use Pmpr\Common\Foundation\Traits\ToArrayTrait; abstract class Common { use SingletonTrait, ComponentTrait, ToArrayTrait, CommonTrait, NoticeTrait; }
