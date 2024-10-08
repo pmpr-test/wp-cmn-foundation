@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             67053ea9b9ccc             |
+    |             670598d3a6ee7             |
     |_______________________________________|
 */
- namespace Pmpr\Common\Foundation\ORM\Database\Schema; class BigInteger extends Schema { public function __construct(string $aokagokqyuysuksm, ?string $meqocwsecsywiiqs = null) { $this->omqeokeyimawioym('bigint'); parent::__construct('bigInteger', $aokagokqyuysuksm, $meqocwsecsywiiqs); } }
+ namespace Pmpr\Common\Foundation\ORM\Database\Schema; class BigInteger extends Schema { public function __construct(string $aokagokqyuysuksm, ?string $meqocwsecsywiiqs = null) { $this->omqeokeyimawioym("\x62\151\x67\151\x6e\164"); parent::__construct("\142\x69\147\x49\x6e\164\145\x67\x65\162", $aokagokqyuysuksm, $meqocwsecsywiiqs); } }
