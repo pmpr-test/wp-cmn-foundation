@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             670d9f11bf9d9             |
+    |             670d9fd229d29             |
     |_______________________________________|
 */
  namespace Pmpr\Common\Foundation\Data; use Pmpr\Common\Foundation\Traits\AttributeTrait; class Action extends Data { use AttributeTrait; protected $showOn = []; protected ?string $title = null; }

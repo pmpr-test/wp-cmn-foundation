@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             670d9f11bf9d9             |
+    |             670d9fd229d29             |
     |_______________________________________|
 */
  namespace Pmpr\Common\Foundation\ORM\Traits; use Pmpr\Common\Foundation\ORM\Model; trait ModelTrait { protected ?Model $model = null; public function mgogaykgkoogasim() : Model { return $this->model; } public function asumqyigwsqmyeoc(Model $meywaqqsugaoeyys) : self { $this->model = $meywaqqsugaoeyys; return $this; } }
