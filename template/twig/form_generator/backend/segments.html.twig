@@ -1,6 +1,6 @@
 {% set class_prefix = 'pr-panel-' %}
 
-<div class="{{ class_prefix }}segments {{ class_prefix }}{% if vertical|default(1) == 1 %}vertical{% else %}horizontal{% endif %}">
+<div class="{{ class_prefix }}segments {{ class_prefix }}{% if vertical|default(0) %}vertical{% else %}horizontal{% endif %}">
     <header class="{{ class_prefix }}header">
         <nav class="{{ class_prefix }}header-nav">
             {% for segment_id, segment in segments %}
