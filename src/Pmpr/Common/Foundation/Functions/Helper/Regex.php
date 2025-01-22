@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             678d3d47a28db             |
+    |             6791512bce1c4             |
     |_______________________________________|
 */
  namespace Pmpr\Common\Foundation\Functions\Helper; class Regex extends Common { }
