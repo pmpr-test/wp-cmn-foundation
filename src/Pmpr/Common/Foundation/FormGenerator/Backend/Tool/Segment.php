@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             67b702d5e1cff             |
+    |             67b7a86064f08             |
     |_______________________________________|
 */
  namespace Pmpr\Common\Foundation\FormGenerator\Backend\Tool; use Pmpr\Common\Foundation\FormGenerator\Backend\Traits\SegmentsTrait; abstract class Segment extends Component { use SegmentsTrait; public function kgquecmsgcouyaya() { $this->cecaguuoecmccuse($this->ygyygikyocoymgaw("{$this->asgqmkcukouykiie()}_segments"), [$this, 'wiecgqcmaasiaeow']); parent::kgquecmsgcouyaya(); } public final function wiecgqcmaasiaeow($wsqkgswwooewwekw) { if ($this->skgwcckoyoqsascq()) { $wsqkgswwooewwekw = array_merge($wsqkgswwooewwekw, $this->gsesiocqciggmauo()); } return $wsqkgswwooewwekw; } }
