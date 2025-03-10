@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             67ceca327bf05             |
+    |             67cecaf054ce9             |
     |_______________________________________|
 */
  namespace Pmpr\Common\Foundation\Interfaces\Icon; interface IconPmprBrandInterface { const yqkugkuyygummmsk = 'pmpr/1/brand/pmpr-small'; const aoceigukcccyimew = 'pmpr/1/brand/cloudflare'; }
