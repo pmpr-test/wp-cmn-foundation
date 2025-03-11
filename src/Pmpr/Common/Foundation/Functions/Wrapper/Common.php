@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             67d01ba572bba             |
+    |             67d02140955ac             |
     |_______________________________________|
 */
  namespace Pmpr\Common\Foundation\Functions\Wrapper; use Pmpr\Common\Foundation\Functions\Traits\HelperTrait; use Pmpr\Common\Foundation\Functions\Traits\WrapperTrait; abstract class Common { use HelperTrait, WrapperTrait; public final function call($ekiuyucoiagmscgy, $ggauoeuaesiymgee = false, ...$ywmkwiwkosakssii) { $ksaameoqigiaoigg = $ggauoeuaesiymgee; if (function_exists($ekiuyucoiagmscgy)) { $ksaameoqigiaoigg = $ekiuyucoiagmscgy(...$ywmkwiwkosakssii); } return $ksaameoqigiaoigg; } }

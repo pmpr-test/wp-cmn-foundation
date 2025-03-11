@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             67d01ba572bba             |
+    |             67d02140955ac             |
     |_______________________________________|
 */
  namespace Pmpr\Common\Foundation\FormGenerator\Backend\Field; use Pmpr\Common\Foundation\Interfaces\Constants; abstract class Input extends Field { public function __construct(string $aokagokqyuysuksm = '', string $sqeykgyoooqysmca = '') { parent::__construct($aokagokqyuysuksm, $sqeykgyoooqysmca); $this->uekikuwmokqsqoga($sqeykgyoooqysmca); } public function uekikuwmokqsqoga(string $sqeykgyoooqysmca) : self { return $this->qcgocuceocquqcuw(Constants::squoamkioomemiyi, $sqeykgyoooqysmca); } }
