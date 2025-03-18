@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             67d02dc932c3d             |
+    |             67d9d4037d1e2             |
     |_______________________________________|
 */
  namespace Pmpr\Common\Foundation\FormGenerator\Frontend\Component; use Pmpr\Common\Foundation\FormGenerator\Traits\MultistepTrait; class Multistep extends Component { use MultistepTrait; public function qiccuiwooiquycsg() { $this->template = 'multistep'; $this->templateClass = self::class; $this->qigsyyqgewgskemg('pr-multistep-wrap'); parent::qiccuiwooiquycsg(); } }
