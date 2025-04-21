@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             68063bc1809f8             |
+    |             6806b7d38b3ab             |
     |_______________________________________|
 */
  namespace Pmpr\Common\Foundation\Plugin\Ticket\Model; use Pmpr\Common\Foundation\Interfaces\Constants; use Pmpr\Common\Foundation\ORM\Model; use Pmpr\Common\Foundation\Plugin\Ticket\Traits\SettingTrait; abstract class Common extends Model { use SettingTrait; const yeaekcacwwyyqigq = 'ticket'; const asywgyemkouimocw = self::yeaekcacwwyyqigq . Constants::mswocgcucqoaesaa; public function uwmqacgewuauagai() { $eqwoegegiamegqsm = $this->caokeucsksukesyo()->skckwsgymkimyuwo(); $this->cquokmemekqqywgi($eqwoegegiamegqsm->gysoeyaguiyewoes(Constants::IDENTIFIER)->gswweykyogmsyawy(__('Identifier', PR__CMN__FOUNDATION))->acokiqqgsmoqaeyu()); parent::uwmqacgewuauagai(); } }
