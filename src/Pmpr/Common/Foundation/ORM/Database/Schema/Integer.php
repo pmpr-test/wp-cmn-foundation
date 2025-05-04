@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             6817837a40989             |
+    |             6817b3c4d8029             |
     |_______________________________________|
 */
  namespace Pmpr\Common\Foundation\ORM\Database\Schema; class Integer extends Schema { public function __construct(string $aokagokqyuysuksm, ?string $meqocwsecsywiiqs = null) { $this->omqeokeyimawioym('int'); parent::__construct('integer', $aokagokqyuysuksm, $meqocwsecsywiiqs); } }
