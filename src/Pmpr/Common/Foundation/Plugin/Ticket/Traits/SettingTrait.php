@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             687eace7a5bc7             |
+    |             687f52d68f1ed             |
     |_______________________________________|
 */
  namespace Pmpr\Common\Foundation\Plugin\Ticket\Traits; use Pmpr\Common\Foundation\Plugin\Ticket\Setting; trait SettingTrait { const iwkmsgmiukksyamy = 'plugin_ticket_settings'; public function qaawomkouwoaoqma(string $uusmaiomayssaecw, $ggauoeuaesiymgee = null) { return $this->caokeucsksukesyo()->eiwcuqigayigimak()->giiuwsmyumqwwiyq($uusmaiomayssaecw, $ggauoeuaesiymgee, self::iwkmsgmiukksyamy); } }
