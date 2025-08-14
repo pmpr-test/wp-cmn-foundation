@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             689c8169bc587             |
+    |             689e5e7629a37             |
     |_______________________________________|
 */
  namespace Pmpr\Common\Foundation\Functions\Helper\HTML; use Pmpr\Common\Foundation\Functions\Helper\Common as BaseClass; use Pmpr\Common\Foundation\Template\Template; abstract class Common extends BaseClass { public function auqoykuwiywsocis(string $qqscaoyqikuyeoaw, array $qookweymeqawmcwo = []) : string { $nsmgceoqaqogqmuw = ''; if ($yykoaiyakemcoqiu = pr_get_foundation()) { $nsmgceoqaqogqmuw = $yykoaiyakemcoqiu->iuygowkemiiwqmiw("@pr__cmn__foundation/{$qqscaoyqikuyeoaw}.html.twig", $qookweymeqawmcwo); } return $nsmgceoqaqogqmuw; } }
