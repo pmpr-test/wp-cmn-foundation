@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             68a1b0e1cfc30             |
+    |             68a1bbc2b67a6             |
     |_______________________________________|
 */
  namespace Pmpr\Common\Foundation\Functions\Wrapper; class Tool extends Common { public function mail($acuayeeoiwokyomo, $iosuwkkwwioumeqg, $uamcoiueqaamsqma, $uykgysuswksgmwqy = '', $aieaqakyuyewkkwe = '') { return wp_mail($acuayeeoiwokyomo, $iosuwkkwwioumeqg, $uamcoiueqaamsqma, $uykgysuswksgmwqy, $aieaqakyuyewkkwe); } }
