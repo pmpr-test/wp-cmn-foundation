@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             68a63d5c2a1a8             |
+    |             68a63e3347d2a             |
     |_______________________________________|
 */
  namespace Pmpr\Common\Foundation\ORM\Database\Schema; class Str extends Schema { public function __construct(string $aokagokqyuysuksm, ?string $meqocwsecsywiiqs = null) { $this->omqeokeyimawioym('varchar'); parent::__construct('string', $aokagokqyuysuksm, $meqocwsecsywiiqs); } }
