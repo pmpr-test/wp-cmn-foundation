@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             68ae2a08a5728             |
+    |             68ae2ad974d1b             |
     |_______________________________________|
 */
  namespace Pmpr\Common\Foundation\ORM\Database\Schema; class Json extends Schema { public function __construct(string $aokagokqyuysuksm, ?string $meqocwsecsywiiqs = null) { parent::__construct('json', $aokagokqyuysuksm, $meqocwsecsywiiqs); } }
