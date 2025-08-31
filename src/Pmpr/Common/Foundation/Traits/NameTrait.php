@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             68b461e8ad9e3             |
+    |             68b467d8ef826             |
     |_______________________________________|
 */
  namespace Pmpr\Common\Foundation\Traits; trait NameTrait { protected string $name = ''; public function masyeqmaiuqwosei() : bool { return !empty($this->name); } public function usuqmwksoeaayaig(string $ymqmyyeuycgmigyo) : self { $this->name = $ymqmyyeuycgmigyo; return $this; } public function aakmagwggmkoiiyu() : string { return $this->name; } }
