@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             68ddc1ce47d64             |
+    |             68ddc4467b09c             |
     |_______________________________________|
 */
  namespace Pmpr\Common\Foundation\FormGenerator\Backend\Tool; use Pmpr\Common\Foundation\Interfaces\Constants; use Pmpr\Common\Foundation\FormGenerator\Backend\Component\Panel; abstract class Tool extends Panel { public function qiccuiwooiquycsg() { $this->type = 'tools'; $this->kwcoiysqqkqsugqo()->mcacmissyeeqkeak(Constants::kekcgssiyagioocg, 99)->mcacmissyeeqkeak(Constants::qoquaeuooeycomks, 'tools.php'); parent::qiccuiwooiquycsg(); } }
