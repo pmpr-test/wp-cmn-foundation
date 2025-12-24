@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             694c4d41a8027             |
+    |             694c7243e06be             |
     |_______________________________________|
 */
  namespace Pmpr\Common\Foundation\FormGenerator\Backend\Traits; use Pmpr\Common\Foundation\FormGenerator\Backend\Component\Sidebar; trait SidebarTrait { protected ?Sidebar $sidebar = null; public function iomqgwmuicwwweyo() : Sidebar { if (!$this->sidebar) { $this->sidebar = $this->caokeucsksukesyo()->wmkogisswkckmeua()->eaiwcicqeaoaueuq("{$this->mwikyscisascoeea()}_sidebar"); } return $this->sidebar; } }
