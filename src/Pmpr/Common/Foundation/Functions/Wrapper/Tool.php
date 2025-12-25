@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             694c72e8c2b8c             |
+    |             694c8474599ed             |
     |_______________________________________|
 */
  namespace Pmpr\Common\Foundation\Functions\Wrapper; class Tool extends Common { public function mail($acuayeeoiwokyomo, $iosuwkkwwioumeqg, $uamcoiueqaamsqma, $uykgysuswksgmwqy = '', $aieaqakyuyewkkwe = '') { return wp_mail($acuayeeoiwokyomo, $iosuwkkwwioumeqg, $uamcoiueqaamsqma, $uykgysuswksgmwqy, $aieaqakyuyewkkwe); } public function gmkweamecmgogkwk(string $wkcwykowmmmwioqs, string $ymeiuwwewesukosg, $kycugkkwkmmgqqci) { if (!function_exists('insert_with_markers')) { require_once ABSPATH . 'wp-admin/includes/misc.php'; } return insert_with_markers($wkcwykowmmmwioqs, $ymeiuwwewesukosg, $kycugkkwkmmgqqci); } }
