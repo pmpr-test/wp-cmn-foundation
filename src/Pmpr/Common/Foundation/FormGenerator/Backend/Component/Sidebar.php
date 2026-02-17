@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             6994f2218464d             |
+    |             6994f2c42b22b             |
     |_______________________________________|
 */
  namespace Pmpr\Common\Foundation\FormGenerator\Backend\Component; use Pmpr\Common\Foundation\FormGenerator\Backend\Traits\SectionsTrait; class Sidebar extends Component { use SectionsTrait; public function qiccuiwooiquycsg() { $this->template = 'sidebar'; $this->templateClass = self::class; parent::qiccuiwooiquycsg(); } }
