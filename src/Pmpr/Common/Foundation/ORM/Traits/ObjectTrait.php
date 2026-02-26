@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             69a09d0e1cbb9             |
+    |             69a0a0f99ffc0             |
     |_______________________________________|
 */
  namespace Pmpr\Common\Foundation\ORM\Traits; trait ObjectTrait { protected int $id = 0; protected ?object $object = null; public function xauiwawimomcgksy(?int $aokagokqyuysuksm) : self { $this->id = $aokagokqyuysuksm; return $this; } public function iooowgsqoyqseyuu() : int { return $this->id; } public function kwmiaokywwmwecuc(?object $mksyucucyswaukig) : self { $this->object = $mksyucucyswaukig; return $this; } public function imgymusqgccqsqqq() : ?object { return $this->object; } }
