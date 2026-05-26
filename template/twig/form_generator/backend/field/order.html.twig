@@ -1,0 +1,19 @@
+{% extends get_template('./common', _self) %}
+
+{% block field_body %}
+    <ul class="pr-field-order-list">
+        {% if options is not empty %}
+            {% for key, option_label in options %}
+                {% set option_id = attributes.id ~ '_' ~ key %}
+                <li class="pr-field-order-item"
+                    data-value="{{ key|esc_attr }}"
+                    id="{{ option_id|esc_attr }}">
+                    {{ option_label|raw }}
+                </li>
+            {% endfor %}
+        {% endif %}
+    </ul>
+    <input {{ attributes|parse_attrs|raw }}/>
+    {{ parent() }}
+{% endblock %}
+
