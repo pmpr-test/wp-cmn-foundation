@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             6a162644b9113             |
+    |             6a2d1b91d1f34             |
     |_______________________________________|
 */
  namespace Pmpr\Common\Foundation\Container\Traits; use Pmpr\Common\Foundation\Container\Storage; trait SingletonTrait { public static function symcgieuakksimmu(...$ywmkwiwkosakssii) : self { return Storage::get(false, static::class, null, ...$ywmkwiwkosakssii); } public static function ksyueceqagwomguk(...$ywmkwiwkosakssii) : self { return Storage::get(true, static::class, null, ...$ywmkwiwkosakssii); } public static function ocmycskcuiawkecq(?string $aokagokqyuysuksm = null, ...$ywmkwiwkosakssii) : ?self { return Storage::get(false, static::class, $aokagokqyuysuksm, ...$ywmkwiwkosakssii); } }
